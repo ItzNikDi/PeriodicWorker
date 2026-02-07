@@ -1,6 +1,6 @@
 # Periodic Worker
 
-![Latest Release](https://img.shields.io/github/v/release/ItzNikDi/PeriodicWorker?label=version)
+[![version](https://img.shields.io/github/v/release/ItzNikDi/PeriodicWorker?label=version)](https://github.com/ItzNikDi/PeriodicWorker/releases)
 
 A lightweight Ktor plugin for running _periodic background_ tasks.
 
