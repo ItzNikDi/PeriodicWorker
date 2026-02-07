@@ -6,6 +6,10 @@ plugins {
     `maven-publish`
 }
 
+tasks.named("shadowJar") {
+    enabled = false
+}
+
 group = "dev.nikdi"
 version = libs.versions.periodic.worker.get()
 
